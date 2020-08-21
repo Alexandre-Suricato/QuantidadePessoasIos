@@ -1,0 +1,6 @@
+framework module Pods_Quantidade_Pessoas_Ios_Quantidade_Pessoas_IosUITests {
+  umbrella header "Pods-Quantidade Pessoas Ios-Quantidade Pessoas IosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

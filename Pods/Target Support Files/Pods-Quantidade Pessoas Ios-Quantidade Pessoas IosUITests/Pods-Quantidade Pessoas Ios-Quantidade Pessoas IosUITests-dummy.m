@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Quantidade_Pessoas_Ios_Quantidade_Pessoas_IosUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Quantidade_Pessoas_Ios_Quantidade_Pessoas_IosUITests
+@end
